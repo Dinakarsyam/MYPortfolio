@@ -16,5 +16,5 @@ My portfolio website built using HTML, CSS, and JavaScript. You can check it out
 
 👤 **Dinakar Syam**
 
-* LinkedIn: [@arasgungore](https://www.linkedin.com/in/dinakar3621)
-* GitHub: [@arasgungore](https://github.com/Dinakarsyam)
+* LinkedIn: [@dinakar3621](https://www.linkedin.com/in/dinakar3621)
+* GitHub: [@Dinakarsyam](https://github.com/Dinakarsyam)
