@@ -1,20 +1,20 @@
-# arasgungore.github.io
+# dinakarsyam.xyz
 
-My portfolio website built using HTML, CSS, and JavaScript. You can check it out [here](https://arasgungore.github.io).
+My portfolio website built using HTML, CSS, and JavaScript. You can check it out [here](https://dinakarsyam.xyz).
 
 
 
 ## Screenshots
 
 <p float="center">
-    <img src="https://github.com/arasgungore/arasgungore.github.io/blob/main/Screenshots/1.png" width="800">
+    <img src="https://github.com/Dinakarsyam/MYPortfolio/blob/main/Screenshots/Screenshot%20(94).png" width="800">
 </p>
 
 
 
 ## Author
 
-👤 **Aras Güngöre**
+👤 **Dinakar Syam**
 
-* LinkedIn: [@arasgungore](https://www.linkedin.com/in/arasgungore)
-* GitHub: [@arasgungore](https://github.com/arasgungore)
+* LinkedIn: [@arasgungore](https://www.linkedin.com/in/dinakar3621)
+* GitHub: [@arasgungore](https://github.com/Dinakarsyam)
